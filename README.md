@@ -3,7 +3,7 @@ This repository is designed for use in the Coursera Data Scientist Toolbox cours
 
 ##Notes
 
-Common Commands
+###Common Commands
 * touch new.md      (creates a new file called 'new.md' in git)
 * git status        (provides status of what has been updated, etc - its your 'to do' list)
 * git add .         (this preps everything forward so that you can commit it)
