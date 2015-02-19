@@ -9,3 +9,5 @@ This repository is designed for use in the Coursera Data Scientist Toolbox cours
 * git add .         (this preps everything forward so that you can commit it)
 * git log           (provides the full commit history for this respository)
 * git push origin master    (pushes updates you've made locally to GitHub)
+* git remote add upstream [url of repo]   (creates a link between local and remote called "upstream" - used for syncing)
+* 
